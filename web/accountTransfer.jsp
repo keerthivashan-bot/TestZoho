@@ -55,7 +55,7 @@
 				   <label>Enter the amount to Deposit</label>
 				   <input type="number" id="amtToTransfer" min="0" step="2" placeholder="Enter the amount" class="text1">
 				 	<br>	  	
-					<label>conflict</label>	   
+					<label>conflict haiii</label>	   
 	<button id="accTransfer">
 		Account Transfer
 	</button>
