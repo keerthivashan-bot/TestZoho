@@ -54,8 +54,8 @@
 				   <input type="number" id="accno"  min="0" step="2" placeholder="Enter the ACC NO" class="text1">
 				   <label>Enter the amount to Deposit</label>
 				   <input type="number" id="amtToTransfer" min="0" step="2" placeholder="Enter the amount" class="text1">
-				 	<br>	  	
-					<label>conflict haiii</label>	   
+				 	<br>	  
+					<label>haiii</label>		   
 	<button id="accTransfer">
 		Account Transfer
 	</button>
